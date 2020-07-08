@@ -13,4 +13,17 @@ Application contains 2 screens
 MVVM architectural pattern using Dagger,LiveData,Viewmodel,RoomDB and Navigation and added Unit tests for viewmodel and repositories
 
 
+## References 
+
+1.Githubbrowser sample
+
+https://github.com/android/architecture-components-samples/tree/master/GithubBrowserSample/
+
+2.Android Sunflower
+
+https://github.com/android/sunflower
+
+
+
+
 

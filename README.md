@@ -1,4 +1,4 @@
-## NewsApp
+## NewsApp(MVVM using Dagger,viewmodel,livedata,room and Navigation)
 
 This is the basic NewsApplication using third party api(Created an account in https://newsapi.org/docs/endpoints/top-headlines)
 

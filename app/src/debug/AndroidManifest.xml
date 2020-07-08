@@ -1,0 +1,11 @@
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.grabtaxi.android_tech_test_grab">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name="com.grabtaxi.android_tech_test_grab.com.grabtaxi.android_tech_test_grab.SingleFragmentActivity"></activity>
+    </application>
+
+</manifest>
